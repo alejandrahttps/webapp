@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'Neue Montreal';
+    src: url('assets/fonts/NeueMontreal-Regular.woff2') format('woff2'),
+         url('assets/fonts/NeueMontreal-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Montreal';
+    src: url('assets/fonts/NeueMontreal-Bold.woff2') format('woff2'),
+         url('assets/fonts/NeueMontreal-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+
+
+@import url('https://fonts.cdnfonts.com/css/data-70');
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+
+}
